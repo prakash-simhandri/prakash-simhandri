@@ -7,7 +7,7 @@
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
-✔ Callme: **Pratik Deshmukh* or *TeamWorker** 😊 <br>
+✔ Callme: **Prakash Simhandri* or *TeamWorker** 😊 <br>
 ✔ I’m currently Developing a Ecommerce Customer Service Dashboard for *Leapclub.in*<br>
 ✔ I’m currently learning about *deep learning*🥰<br>
 ✔ I’m looking to collaborate with any *Open - Source data science projects*<br>
