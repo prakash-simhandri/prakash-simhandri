@@ -1,5 +1,5 @@
  <p align="center">
-  <img src="https://mir-s3-cdn-cf.behance.net/projects/404/6118fe173615933.Y3JvcCwzMjQwLDI1MzQsMCwzNTI.jpg" height="200"/>
+  <img src="https://raw.githubusercontent.com/thompsonemerson/thompsonemerson/master/cover-thompson.png" height="200"/>
 </p>
 <!--
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
